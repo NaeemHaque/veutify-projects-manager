@@ -1,4 +1,4 @@
-# veutify-todo
+# veutify-project-manager
 
 ## Project setup
 ```
