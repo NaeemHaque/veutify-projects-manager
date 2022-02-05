@@ -62,7 +62,7 @@
 </template>
 
 <script>
-var s;
+
 
 export default {
     el: 'popup',
